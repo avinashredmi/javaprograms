@@ -7,7 +7,7 @@ public class dowhile {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the i value");
 		int i=sc.nextInt();
-		
+		System.out.println("hai");
 		
 		do {
 			System.out.println(i);
